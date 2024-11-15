@@ -1,0 +1,6 @@
+streamlit 
+pdf2image 
+python-dotenv 
+groq
+poppler-utils
+pdf2image
